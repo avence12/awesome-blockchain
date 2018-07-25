@@ -1,26 +1,26 @@
 # awesome-blockchain
 
 ### If you want to know what blockchain is ..
-> Blockchain is not just buzzword but may be the next **BIG THING** as the Fourth Wave. Recommend you to checkout [blockchain concepts](#concept). Knowing the history, idea, and fundamental technologies.
+> Blockchain may be the next **BIG THING** as the Fourth Wave. Recommend you to checkout [blockchain concepts](#concept). Knowing the history, idea, and fundamental technologies.
 
 ## Contents
 - [Concept](#concept)
 - [Application](#application)
 - [CryptoCurrency](#cryptocurrency)
 - [Smart Contract](#availability)
-- [Internet of Value](#iov)
-- [Cross-Domain Technology](#technology)
+- [Internet of Value](#internet-of-value)
+- [Cross-Domain Technology](#cross-domain-technology)
 - [Development](#development)
-- [Learning Resource](#resource)
-- [MOOC](#mooc)
-- [Talk](#talk)
-- [Book](#book)
+- [Learning Resource](#learning-resource)
+    - [MOOC](#mooc)
+    - [Talk](#talk)
+    - [Book](#book)
 
 ## Concept
 - [Blockstrap's Beginners Course to Blockchain Technology - TotalCrypto](https://totalcrypto.io/blockstrap-beginner-course-blockchain/)
 - [Understanding the blockchain - O'Reilly Media](https://www.oreilly.com/ideas/understanding-the-blockchain)
 - [Interactive Blockchain Demo](https://anders.com/blockchain/)
-- [blockchain-tutorial by liuchengxu](https://liuchengxu.gitbooks.io/blockchain-tutorial) (Chinese)
+- [Blockchain-tutorial by liuchengxu](https://liuchengxu.gitbooks.io/blockchain-tutorial) (Chinese)
 
 ## Application
 
@@ -30,7 +30,7 @@
 
 ## Internet of Value
 
-## Technology
+## Cross-Domain Technology
 
 ## Development
 ### AWS
@@ -39,7 +39,7 @@
 ### Hyperledger Fabric
 - [Hyperledger Documents](https://hyperledgercn.github.io/hyperledgerDocs/) (Chinese)
 
-## Resource
+## Learning Resource
 
 ### Article
 
