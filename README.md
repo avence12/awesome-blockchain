@@ -24,7 +24,7 @@
 - [Blockchain Explained Simply](https://www.slideshare.net/Simplilearn/blockchain-explained-how-does-a-blockchain-work-blockchain-explained-simply-simplilearn)
 - [Interactive Blockchain Demo](https://anders.com/blockchain/)
 - [Understanding the blockchain - O'Reilly Media](https://www.oreilly.com/ideas/understanding-the-blockchain)
-- :cn: [Blockchain-tutorial by liuchengxu](https://liuchengxu.gitbooks.io/blockchain-tutorial)
+- [Blockchain-tutorial by liuchengxu](https://liuchengxu.gitbooks.io/blockchain-tutorial)
 - [Blockstrap's Beginners Course to Blockchain Technology - TotalCrypto](https://totalcrypto.io/blockstrap-beginner-course-blockchain/)
 
 
@@ -91,5 +91,5 @@
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-This repository is created and maintained by [LightBlue Chang](https://www.lightblue.asia/). Feel free to use it at your convenience!
+This repository is created and maintained by [MinHsien Chang](https://www.lightblue.asia/). Feel free to use it at your convenience!
 
